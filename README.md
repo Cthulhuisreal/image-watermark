@@ -4,4 +4,4 @@ Watermark с различными настраиваемыми параметр�
 <p>Угол наклона</p>
 <p>Прозрачность</p>
 <p>Шрифт</p><br>
-Использование: python image-watermark.py <input-image> <text> <output-image> <angle> <opacity> 
+Использование: python image-watermark.py input-image text output-image angle opacity
